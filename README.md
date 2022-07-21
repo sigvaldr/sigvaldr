@@ -1,4 +1,4 @@
-<h1 align="left" id="vikingiwan-title">:wave: Howdy there, I'm Iwan :sunglasses:</h1>
+<h1 align="left" id="vikingiwan-title">:wave: Howdy there, I'm Evan :sunglasses:</h1>
 <h3 align="left">I am a self-taught Full-Stack Developer, Bot fanatic, and amateur game developer.</h3>
 
 <p align="left">
@@ -115,6 +115,6 @@
 
 <!-- links -->
 
-[vikingtactical]: https://vikingtactical.us 'VikingTactical'
-[issues page]: https://github.com/vikingiwan/vikingiwan/issues 'vikingiwan/issues'
-[e-mail]: mailto://iwan@vikingtactical.us 'iwan@vikingtactical.us Email'
+[vikingtactical]: https://vikingtactical.us "VikingTactical"
+[issues page]: https://github.com/vikingiwan/vikingiwan/issues "vikingiwan/issues"
+[e-mail]: mailto://iwan@vikingtactical.us "evan.p.greenli@gmail.com Email"
