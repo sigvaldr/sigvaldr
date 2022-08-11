@@ -31,6 +31,12 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="#vikingiwan-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
       <a href="#vikingiwan-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
@@ -60,56 +66,6 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a href="#vikingiwan-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#vikingiwan-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#vikingiwan-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#vikingiwan-tech" >
-        <img src="./img/gatsby-plain.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center" width="96">
-      <a href="#vikingiwan-tech" >
-        <img src="./img/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-     <td align="center"  width="96">
-      <a href="#vikingiwan-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-     <td align="center"  width="96">
-      <a href="#vikingiwan-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#vikingiwan-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
   </tr>
 </table>
 
@@ -117,4 +73,4 @@
 
 [vikingtactical]: https://vikingtactical.us "VikingTactical"
 [issues page]: https://github.com/vikingiwan/vikingiwan/issues "vikingiwan/issues"
-[e-mail]: mailto://iwan@vikingtactical.us "evan.p.greenli@gmail.com Email"
+[e-mail]: mailto://vikingiwan@pm.me "vikingiwan@pm.me Email"
