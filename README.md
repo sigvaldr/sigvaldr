@@ -1,18 +1,18 @@
-<h1 align="left" id="vikingiwan-title">:wave: Howdy there, I'm Evan :rocket:</h1>
+<h1 align="left" id="sigvaldr-title">:wave: Hallo, I am Sigvaldr :rocket:</h1>
 <h3 align="left">I am a self-taught Full-Stack Developer, Bot fanatic, and amateur game developer.</h3>
 
 <p align="left">
-  <a href="https://github.com/vikingiwan/vikingiwan">
-    <img src="https://komarev.com/ghpvc/?username=vikingiwan" alt="page views" />
+  <a href="https://github.com/sigvaldr/sigvaldr">
+    <img src="https://komarev.com/ghpvc/?username=sigvaldr" alt="page views" />
   </a>
   <a href="https://github.com/vikingiwan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/vikingiwan?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sigvaldr?color=green&logo=github">
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **[VikingTactical]**
-- :seedling: &nbsp;I’m currently learning **Laravel**
-- :speech_balloon: &nbsp;I like to talk about **Rocketry** and **Video Games**
+- :office: &nbsp;I'm currently working at **[Thorium Studios]**
+- :memo: &nbsp;I’m currently learning **Nuxt.js**
+- :speech_balloon: &nbsp;I like to talk about **Computers**, **Rocketry** and **Video Games**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me via **[e-mail]**
 
@@ -71,6 +71,6 @@
 
 <!-- links -->
 
-[vikingtactical]: https://vikingtactical.us "VikingTactical"
-[issues page]: https://github.com/vikingiwan/vikingiwan/issues "vikingiwan/issues"
-[e-mail]: mailto://vikingiwan@pm.me "vikingiwan@pm.me Email"
+[thorium studios]: https://thoriumstudios.dev "Thorium Studios"
+[issues page]: https://github.com/sigvaldr/sigvaldr/issues "sigvaldr/issues"
+[e-mail]: mailto://sigvaldr@thoriumstudios.dev "sigvaldr@thoriumstudios.dev Email"
